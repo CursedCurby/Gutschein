@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+.bild-stil {
+    width: 100vw;
+    height: auto;
+}
+
+.Beschreibung {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	margin-top:50px;
+}
+
+.button{
+	align-self: center;
+	width:50vw;
+	height:10vw;
+	background-color: gold;
+	font-size: 7vw;
+	align: center;
+	color:white;
+	}
+
+.ccam{
+	width:10vw;
+	height:auto;
+	margin-left: 50px;
+}
+
+.ll{
+	width:10vw;
+	height:auto;
+	margin-right: 50px;
+}
+
+.divunten{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-top: 125px;
+}
+
+.text{
+			position:sticky;
+			bottom:500px;
+			text-align: center;
+			color:gold;
+			font-size:12vw;
+			font-family: "Gill Sans"
+		}
